@@ -1,0 +1,1 @@
+The extension made by zghaia@gmial.com for auto jumping from one site to another site
